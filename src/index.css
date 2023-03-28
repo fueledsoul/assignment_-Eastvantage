@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  /* margin: 0; */
+}
+.main {
+  text-align: center;
+  /* background-color: aqua; */
+  padding: 20px;
+  margin: auto;
+  width: 100%;
+}
+
+.btn {
+  margin-top: 20px;
+  background-color: yellow;
+  font-size: 20px;
+  border: none;
+  box-shadow: 2px 3px 4px 2px #f5f5;
+  cursor: pointer;
+  color: black;
+  padding: 14px 30px;
+  margin-bottom: 20px;
+}
+.card_div {
+  border: 1px solid #949494;
+  width: 50%;
+  border-radius: 20px;
+  margin: auto;
+}
